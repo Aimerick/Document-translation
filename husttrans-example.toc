@@ -38,22 +38,23 @@
 \contentsline {subsubsection}{\numberline {1.4.4.1}图13-34的实例1}{21}{subsubsection.1.4.4.1}
 \contentsline {subsubsection}{\numberline {1.4.4.2}图13-36的实例2}{22}{subsubsection.1.4.4.2}
 \contentsline {subsubsection}{\numberline {1.4.4.3}图13-37的实例3}{23}{subsubsection.1.4.4.3}
-\contentsline {chapter}{\numberline {2}基本格式测试}{24}{chapter.2}
-\contentsline {section}{\numberline {2.1}第一层}{24}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}第二层}{24}{subsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.1.1}第三层}{24}{subsubsection.2.1.1.1}
-\contentsline {section}{\numberline {2.2}字体}{24}{section.2.2}
-\contentsline {section}{\numberline {2.3}公式}{24}{section.2.3}
-\contentsline {section}{\numberline {2.4}罗列环境}{24}{section.2.4}
-\contentsline {chapter}{\numberline {3}其他格式测试}{26}{chapter.3}
-\contentsline {section}{\numberline {3.1}代码环境}{26}{section.3.1}
-\contentsline {section}{\numberline {3.2}定律证明环境}{26}{section.3.2}
-\contentsline {section}{\numberline {3.3}算法环境}{27}{section.3.3}
-\contentsline {section}{\numberline {3.4}表格}{27}{section.3.4}
-\contentsline {section}{\numberline {3.5}图片}{27}{section.3.5}
-\contentsline {section}{\numberline {3.6}参考文献示例}{27}{section.3.6}
-\contentsline {section}{\numberline {3.7}\textbackslash {}autoref 测试}{28}{section.3.7}
+\contentsline {section}{\numberline {1.5}本章回顾}{24}{section.1.5}
+\contentsline {chapter}{\numberline {2}基本格式测试}{27}{chapter.2}
+\contentsline {section}{\numberline {2.1}第一层}{27}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}第二层}{27}{subsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.1}第三层}{27}{subsubsection.2.1.1.1}
+\contentsline {section}{\numberline {2.2}字体}{27}{section.2.2}
+\contentsline {section}{\numberline {2.3}公式}{27}{section.2.3}
+\contentsline {section}{\numberline {2.4}罗列环境}{27}{section.2.4}
+\contentsline {chapter}{\numberline {3}其他格式测试}{29}{chapter.3}
+\contentsline {section}{\numberline {3.1}代码环境}{29}{section.3.1}
+\contentsline {section}{\numberline {3.2}定律证明环境}{29}{section.3.2}
+\contentsline {section}{\numberline {3.3}算法环境}{30}{section.3.3}
+\contentsline {section}{\numberline {3.4}表格}{30}{section.3.4}
+\contentsline {section}{\numberline {3.5}图片}{30}{section.3.5}
+\contentsline {section}{\numberline {3.6}参考文献示例}{30}{section.3.6}
+\contentsline {section}{\numberline {3.7}\textbackslash {}autoref 测试}{31}{section.3.7}
 \save@tocdepth \setcounter {tocdepth}{0}
-\contentsline {chapter}{参考文献}{29}{section*.9}
-\contentsline {chapter}{附录 \numberline {A}这是一个附录}{29}{附录.1.A}
+\contentsline {chapter}{参考文献}{32}{section*.9}
+\contentsline {chapter}{附录 \numberline {A}这是一个附录}{32}{附录.1.A}
 \contentsfinish 
