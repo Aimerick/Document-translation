@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/W32TeX)  (format=lualatex 2018.1.9)  20 JAN 2018 17:06
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/W32TeX)  (format=lualatex 2018.1.9)  20 JAN 2018 18:29
  restricted system commands enabled.
 **husttrans-example.tex
 (./husttrans-example.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.272 seconds
+luaotfload | main : initialization completed in 0.260 seconds
 Babel <3.16> and hyphenation patterns for 1 language(s) loaded.
 (./husttrans.cls
 Document Class: husttrans 2017/02/21 v1.3 A Translation Template for Huazhong Un
@@ -1953,9 +1953,9 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \colbreak@box=\box105
 \mc@col@check@num=\count388
 )
-No file husttrans-example.aux.
-
+(./husttrans-example.aux)
 \openout1 = husttrans-example.aux
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
@@ -1978,6 +1978,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
+
 (d:/texlive/2017/texmf-dist/tex/luatex/luatexja/patches/lltjp-array.sty
 Package: lltjp-array 2017/06/18 Patch to array for LuaTeX-ja
 )
@@ -2146,6 +2147,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 55.
 LaTeX Info: Redefining \pageref on input line 55.
 LaTeX Info: Redefining \nameref on input line 55.
+
+(./husttrans-example.out) (./husttrans-example.out)
 \@outlinefile=\write5
 
 \openout5 = husttrans-example.out
@@ -2241,6 +2244,13 @@ LaTeX Font Info:    Font shape `JT3/AdobeHeitiStd-Regular(0)/bx/n' will be
 (Font)              scaled to size 17.31995pt on input line 59.
 LaTeX Font Info:    Font shape `JY3/AdobeHeitiStd-Regular(0)/bx/n' will be
 (Font)              scaled to size 17.31995pt on input line 59.
+
+(./husttrans-example.toc
+LaTeX Font Info:    Font shape `JY3/AdobeSongStd-Light(0)/m/n' will be
+(Font)              scaled to size 7.69775pt on input line 2.
+LaTeX Font Info:    Font shape `JY3/AdobeSongStd-Light(0)/m/n' will be
+(Font)              scaled to size 5.77332pt on input line 2.
+)
 \tf@toc=\write6
 
 \openout6 = husttrans-example.toc
@@ -2277,29 +2287,24 @@ LaTeX Font Info:    Font shape `JY3/AdobeHeitiStd-Regular(0)/bx/n' will be
 
 
 ]
-<01.png, id=29, 702.625pt x 425.59pt>
+<01.png, id=146, 702.625pt x 425.59pt>
 File: 01.png Graphic file (type png)
 <use 01.png>
 Package luatex.def Info: 01.png  used on input line 98.
 (luatex.def)             Requested size: 362.37569pt x 219.50273pt.
  [2<./01.png>]
-<02.png, id=38, 594.22pt x 322.20375pt>
+<02.png, id=154, 594.22pt x 322.20375pt>
 File: 02.png Graphic file (type png)
 <use 02.png>
 Package luatex.def Info: 02.png  used on input line 112.
 (luatex.def)             Requested size: 362.37569pt x 196.49974pt.
- [3<./02.png>]
-LaTeX Font Info:    Font shape `JY3/AdobeSongStd-Light(0)/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 120.
-LaTeX Font Info:    Font shape `JY3/AdobeSongStd-Light(0)/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 120.
- [4] [5]
-<03.png, id=59, 633.36626pt x 685.56125pt>
+ [3<./02.png>] [4] [5]
+<03.png, id=174, 633.36626pt x 685.56125pt>
 File: 03.png Graphic file (type png)
 <use 03.png>
 Package luatex.def Info: 03.png  used on input line 158.
 (luatex.def)             Requested size: 362.37569pt x 392.24895pt.
-<04.png, id=60, 702.625pt x 365.365pt>
+<04.png, id=175, 702.625pt x 365.365pt>
 File: 04.png Graphic file (type png)
 <use 04.png>
 Package luatex.def Info: 04.png  used on input line 170.
@@ -2308,35 +2313,35 @@ Package luatex.def Info: 04.png  used on input line 170.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<05.png, id=61, 428.60126pt x 137.51375pt>
+<05.png, id=176, 428.60126pt x 137.51375pt>
 File: 05.png Graphic file (type png)
 <use 05.png>
 Package luatex.def Info: 05.png  used on input line 182.
 (luatex.def)             Requested size: 362.37569pt x 116.26614pt.
 [6<./03.png>]
-<06.png, id=68, 673.51625pt x 235.88126pt>
+<06.png, id=183, 673.51625pt x 235.88126pt>
 File: 06.png Graphic file (type png)
 <use 06.png>
 Package luatex.def Info: 06.png  used on input line 195.
 (luatex.def)             Requested size: 362.37569pt x 126.91327pt.
  [7<./04.png><./05.png>]
-<07.png, id=77, 536.0025pt x 264.99pt>
+<07.png, id=192, 536.0025pt x 264.99pt>
 File: 07.png Graphic file (type png)
 <use 07.png>
 Package luatex.def Info: 07.png  used on input line 204.
 (luatex.def)             Requested size: 362.37569pt x 179.15166pt.
-<08.png, id=78, 374.39874pt x 143.53625pt>
+<08.png, id=193, 374.39874pt x 143.53625pt>
 File: 08.png Graphic file (type png)
 <use 08.png>
 Package luatex.def Info: 08.png  used on input line 213.
 (luatex.def)             Requested size: 362.37569pt x 138.93431pt.
  [8<./06.png><./07.png><./08.png>]
-<09.png, id=90, 702.625pt x 263.98625pt>
+<09.png, id=204, 702.625pt x 263.98625pt>
 File: 09.png Graphic file (type png)
 <use 09.png>
 Package luatex.def Info: 09.png  used on input line 227.
 (luatex.def)             Requested size: 362.37569pt x 136.15382pt.
-<10.png, id=91, 661.47125pt x 214.8025pt>
+<10.png, id=205, 661.47125pt x 214.8025pt>
 File: 10.png Graphic file (type png)
 <use 10.png>
 Package luatex.def Info: 10.png  used on input line 236.
@@ -2386,65 +2391,114 @@ d-Light(0)/m/n/12 倍 []  |即 \TU/TexGyreTermes(0)/m/n/12 0.69×300,000,000=20
  []
 
 [11]
-<11.png, id=118, 631.35875pt x 581.17125pt>
+<11.png, id=231, 631.35875pt x 581.17125pt>
 File: 11.png Graphic file (type png)
 <use 11.png>
 Package luatex.def Info: 11.png  used on input line 278.
 (luatex.def)             Requested size: 362.37569pt x 333.57672pt.
  [12<./11.png>] [13]
-<12.png, id=131, 683.55376pt x 367.3725pt>
+<12.png, id=242, 683.55376pt x 367.3725pt>
 File: 12.png Graphic file (type png)
 <use 12.png>
 Package luatex.def Info: 12.png  used on input line 313.
 (luatex.def)             Requested size: 362.37569pt x 194.76254pt.
  [14<./12.png>]
-<13.png, id=138, 580.1675pt x 337.26pt>
+<13.png, id=249, 580.1675pt x 337.26pt>
 File: 13.png Graphic file (type png)
 <use 13.png>
 Package luatex.def Info: 13.png  used on input line 336.
 (luatex.def)             Requested size: 362.37569pt x 210.65317pt.
  [15<./13.png>]
-<14.png, id=145, 702.625pt x 430.60875pt>
+<14.png, id=256, 702.625pt x 430.60875pt>
 File: 14.png Graphic file (type png)
 <use 14.png>
 Package luatex.def Info: 14.png  used on input line 349.
 (luatex.def)             Requested size: 362.37569pt x 222.09122pt.
  [16<./14.png>]
-<15.png, id=155, 702.625pt x 489.83pt>
+<15.png, id=265, 702.625pt x 489.83pt>
 File: 15.png Graphic file (type png)
 <use 15.png>
 Package luatex.def Info: 15.png  used on input line 383.
 (luatex.def)             Requested size: 362.37569pt x 252.63524pt.
  [17<./15.png>] [18]
-<16.png, id=167, 683.55376pt x 212.795pt>
+<16.png, id=276, 683.55376pt x 212.795pt>
 File: 16.png Graphic file (type png)
 <use 16.png>
 Package luatex.def Info: 16.png  used on input line 408.
 (luatex.def)             Requested size: 362.37569pt x 112.81326pt.
  [19<./16.png>]
-<17.png, id=177, 483.8075pt x 333.245pt>
+<17.png, id=284, 483.8075pt x 333.245pt>
 File: 17.png Graphic file (type png)
 <use 17.png>
 Package luatex.def Info: 17.png  used on input line 420.
 (luatex.def)             Requested size: 362.37569pt x 249.61278pt.
  [20<./17.png>]
-<18.png, id=185, 702.625pt x 305.14pt>
+<18.png, id=291, 702.625pt x 305.14pt>
 File: 18.png Graphic file (type png)
 <use 18.png>
 Package luatex.def Info: 18.png  used on input line 435.
 (luatex.def)             Requested size: 362.37569pt x 157.37932pt.
-<19.png, id=186, 702.625pt x 316.18124pt>
+<19.png, id=292, 702.625pt x 316.18124pt>
 File: 19.png Graphic file (type png)
 <use 19.png>
 Package luatex.def Info: 19.png  used on input line 446.
 (luatex.def)             Requested size: 362.37569pt x 163.07396pt.
  [21<./18.png><./19.png>]
-<20.png, id=197, 702.625pt x 412.54124pt>
+<20.png, id=301, 702.625pt x 412.54124pt>
 File: 20.png Graphic file (type png)
 <use 20.png>
 Package luatex.def Info: 20.png  used on input line 458.
 (luatex.def)             Requested size: 362.37569pt x 212.7727pt.
- [22<./20.png>] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34
+ [22<./20.png>] [23]
+<21.png, id=313, 476.78125pt x 509.905pt>
+File: 21.png Graphic file (type png)
+<use 21.png>
+Package luatex.def Info: 21.png  used on input line 524.
+(luatex.def)             Requested size: 362.37569pt x 387.57072pt.
+ [24] [25<./21.png>]
+<22.png, id=324, 306.14375pt x 298.11375pt>
+File: 22.png Graphic file (type png)
+<use 22.png>
+Package luatex.def Info: 22.png  used on input line 558.
+(luatex.def)             Requested size: 181.18439pt x 176.43144pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<23.png, id=325, 312.16624pt x 269.005pt>
+File: 23.png Graphic file (type png)
+<use 23.png>
+Package luatex.def Info: 23.png  used on input line 566.
+(luatex.def)             Requested size: 181.18439pt x 156.13382pt.
+[26] [27<./22.png><./23.png>]
+<24.png, id=339, 345.29pt x 326.21875pt>
+File: 24.png Graphic file (type png)
+<use 24.png>
+Package luatex.def Info: 24.png  used on input line 579.
+(luatex.def)             Requested size: 181.18439pt x 171.1778pt.
+<25.png, id=340, 646.415pt x 508.90125pt>
+File: 25.png Graphic file (type png)
+<use 25.png>
+Package luatex.def Info: 25.png  used on input line 589.
+(luatex.def)             Requested size: 362.37569pt x 285.2856pt.
+ [28<./24.png><./25.png>]
+<26.png, id=349, 702.625pt x 168.63pt>
+File: 26.png Graphic file (type png)
+<use 26.png>
+Package luatex.def Info: 26.png  used on input line 605.
+(luatex.def)             Requested size: 362.37569pt x 86.97278pt.
+<27.png, id=350, 315.1775pt x 158.5925pt>
+File: 27.png Graphic file (type png)
+<use 27.png>
+Package luatex.def Info: 27.png  used on input line 616.
+(luatex.def)             Requested size: 271.7835pt x 136.76437pt.
+ [29<./26.png>]
+<28.png, id=358, 504.88625pt x 218.8175pt>
+File: 28.png Graphic file (type png)
+<use 28.png>
+Package luatex.def Info: 28.png  used on input line 625.
+(luatex.def)             Requested size: 362.37569pt x 157.0543pt.
+ [30<./27.png><./28.png>] [31] [32] [33] [34] [35] [36] [37] [38
 Missing character: There is no ​ (U+200B) in font AdobeSongStd-Light:mode=node
 ;script=hani;language=DFLT;-kern;jfm=ujis!
 Missing character: There is no ​ (U+200B) in font AdobeSongStd-Light:mode=node
@@ -2453,22 +2507,16 @@ Missing character: There is no ​ (U+200B) in font AdobeSongStd-Light:mode=node
 \tf@thm=\write7
 
 \openout7 = husttrans-example.thm
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 706.
- [35]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 706.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 818.
+ [39]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 818.
 
 (./husttrans-example.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 706.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 706.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 818.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 818.
+Package rerunfilecheck Info: File `husttrans-example.out' has not changed.
+(rerunfilecheck)             Checksum: C72117AF43F911500CB3B56AF6A6635F;3490.
 
-
-Package rerunfilecheck Warning: File `husttrans-example.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `husttrans-example.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  C72117AF43F911500CB3B56AF6A6635F;3490.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -2476,21 +2524,18 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 )
 
 Here is how much of LuaTeX's memory you used:
- 30039 strings out of 494478
- 382020,794899 words of node,token memory allocated
- 29631 words of node memory still in use:
-   15 hlist, 8 vlist, 9 rule, 2 local_par, 54 glue, 145 kern, 3 penalty, 8 glyph
-, 8175 attribute, 2163 glue_spec, 422 attribute_list, 1 write, 26 user_defined n
+ 30163 strings out of 494478
+ 382007,794899 words of node,token memory allocated
+ 31228 words of node memory still in use:
+   15 hlist, 8 vlist, 9 rule, 2 local_par, 55 glue, 153 kern, 3 penalty, 8 glyph
+, 8675 attribute, 2263 glue_spec, 447 attribute_list, 1 write, 26 user_defined n
 odes
-   avail lists: 1:12,2:106514,3:352,4:261,5:28,6:2824,7:3211,8:2284,9:433,10:21,
+   avail lists: 1:15,2:105989,3:352,4:276,5:28,6:2824,7:3210,8:2284,9:527,10:21,
 11:14
- 32722 multiletter control sequences out of 65536+600000
+ 32782 multiletter control sequences out of 65536+600000
  147 fonts using 135810815 bytes
  64i,11n,98p,929b,515s stack positions out of 5000i,500n,10000p,200000b,100000s
 <d:/texlive/2017/texmf-dist/fonts/opentype/public/tex-gyre/texgyretermes-bold.ot
@@ -2499,17 +2544,18 @@ ar.otf><c:/Windows/fonts/adobekaitistd-regular (v5.010).otf><c:/Windows/fonts/ad
 obeheitistd-regular.otf><c:/Windows/fonts/adobesongstd-light.otf><d:/texlive/201
 7/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2017/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2017/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr6.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
-d:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><d:/texlive/2
-017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2017/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><d:/texlive/2017/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on husttrans-example.pdf (37 pages, 1140075 bytes).
+ype1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr12.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb>
+<d:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><d:/texlive/2017/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2017/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy6.pfb><d:/texlive/2017/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy8.pfb>
+Output written on husttrans-example.pdf (41 pages, 1340596 bytes).
 
-PDF statistics: 342 PDF objects out of 1000 (max. 8388607)
- 235 compressed objects within 3 object streams
- 98 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 483 PDF objects out of 1000 (max. 8388607)
+ 354 compressed objects within 4 object streams
+ 110 named destinations out of 1000 (max. 131072)
+ 217 words of extra memory for PDF output out of 10000 (max. 100000000)
 
